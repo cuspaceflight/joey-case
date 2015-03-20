@@ -1,1 +1,1 @@
-panelised.svg: 495.76mm x 468.02mm
+panelised.svg: 486.13mm x 468.02mm
