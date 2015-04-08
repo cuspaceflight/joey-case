@@ -1,2 +1,12 @@
-panelised.svg: 490.00mm x 490.00mm
-thin-card.svg: 297.00mm x 210.00mm  (A4)
+panelised.svg: 490mm x 490mm
+thin-card.svg: 297mm x 210mm  (A4)
+
+In panelised.svg, the squares are 160mm square;
+                  the triangles are 193mm along the bottom
+In thin-card.svg, the smaller squares are 52mm x 49mm
+                  the larger square is 120mm across, with
+                  a bounding box of 134mm square.
+
+(Whether or not you include the width of the lines, as inkscape does,
+ may affect the numbers slightly. Yes, I should have used a proper CAD
+ program, but I only had this to hand at the time.)
