@@ -1,2 +1,2 @@
-panelised.svg: 486.13mm x 468.02mm
+panelised.svg: 490.00mm x 490.00mm
 thin-card.svg: 297.00mm x 210.00mm  (A4)
